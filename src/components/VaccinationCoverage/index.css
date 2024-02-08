@@ -1,0 +1,18 @@
+/* Write your CSS here */
+.details-container {
+  background-color: #1c1c2b;
+  border-radius: 9px;
+  padding: 15px;
+  margin-bottom: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.title {
+  font-family: 'Roboto';
+  font-size: 25px;
+  color: grey;
+  padding: 20px;
+  align-self: flex-start;
+}
